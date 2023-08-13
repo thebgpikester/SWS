@@ -17,7 +17,9 @@
  
 # README 
 Simple Warehouse Saving by Pikey Aug 2023 version 1.0 (thebgpikester@hotmail.com)
+
 Thanks to Speed and Grimes for IntegratedbasicSerialize() function 
+
 Thanks to Eagle Dynamics for keeping the dream alive.
 
 This software is licensed under the Lesser GNU GPL 2007 
