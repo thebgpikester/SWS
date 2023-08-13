@@ -47,6 +47,3 @@ SWS.updateDelaySeconds = 60
 You can change the timer interval for the saving of warehouses here. 
 SWS.filepath = lfs.writedir().."SimpleWarehouse.lua"
 You can configure a custom directory for the save file here if needs be.
-
-SWS.updateDelaySeconds = 60
-You can change the timer interval for the saving of warehouses here. 
